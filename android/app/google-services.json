@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819398663199",
+    "project_id": "plane-go",
+    "storage_bucket": "plane-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819398663199:android:897482e07dea75a676492a",
+        "android_client_info": {
+          "package_name": "com.rifqyYR.plane_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819398663199-pdjs22g1tq8jbt8oeopqukv616mih5o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWX4wNdlTmk4q4YaDqxV7o5y4wawpkZi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819398663199-pdjs22g1tq8jbt8oeopqukv616mih5o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
